@@ -1,1 +1,3 @@
-* {\r\n  color: darkred !important;\r\n}
+html, body {
+	background-color: red;
+}
